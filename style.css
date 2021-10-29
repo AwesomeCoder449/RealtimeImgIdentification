@@ -1,0 +1,55 @@
+#header{
+    font-family: 'Raleway', sans-serif;
+    color: white;
+    background-color: turquoise;
+    border-radius: 10px;
+    width: 60%;
+}
+#header:hover{
+    background-color: sandybrown;
+    text-decoration: underline;
+}
+#trained{
+    font-family: 'Raleway', sans-serif;
+    color: white;
+    background-color: black;
+    border-radius: 10px;
+    width: 50%;
+    box-shadow: 5px 5px 5px turquoise;
+    padding-bottom: 15px;
+    margin-bottom: 409 px;
+}
+#trained:hover{
+    background-color: gray;
+    text-decoration: underline;
+}
+p{
+    font-family: 'Raleway', sans-serif;
+    color: white;
+    background-color: turquoise;
+    border-radius: 10px;
+    width: 30%;
+    font-size: 25px;
+}
+body{
+    background-image: url('awesome stuff.jpg');
+    background-size: cover;
+    background-position: center;
+}
+#divinfo{
+    padding-top: 5px;
+    padding-bottom: 5px;
+    padding-left: 30px;
+    padding-right: 30px;
+    font-size: 25px;
+}
+#camera{
+    border-width: 7px;
+    border-style: double;
+    width: 400px;
+    height: 350px;
+    box-shadow: 5px 5px 5px turquoise;
+}
+canvas{
+    margin-top: 80px;
+}
